@@ -109,7 +109,6 @@ public class MainActivity extends AppCompatActivity implements
         FirebaseInstanceId.getInstance().getToken();
 
 
-
     }
 
     @Override
